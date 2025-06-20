@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Typescript",
+        "icon": "/ts_icon.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/js_icon.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/css_icon.png"
+    },
+    {
+        "name": "HTML",
+        "icon": "/html_icon.png"
+    },
+    {
+        "name": "Solidity",
+        "icon": "/sol_icon.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react_icon.png"
+    },
+    {
+        "name": "Next JS",
+        "icon": "/nextjs_icon.jpeg"
+    }
+]

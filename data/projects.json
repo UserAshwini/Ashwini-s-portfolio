@@ -1,0 +1,41 @@
+[
+    {
+        "thumbnail": "/driveX_logo.webp",
+        "title": "DriveX",
+        "link": {
+            "label": "DriveX",
+            "url": "https://drivex-iota.vercel.app/sign-in"
+        },
+        "description": "DriveX is a modern cloud storage app where users can upload, preview, download, and share files like images, videos, audio, and PDFs. Inspired by Google Drive, it offers smart file organization, quick search, recent activity tracking, and a smooth, responsive user experience.",
+        "languageIcons": [
+            "/nextjs_icon.jpeg",
+            "/css_icon.png"
+        ]
+    },
+    {
+        "thumbnail": "/neoNft_logo.png",
+        "title": "NeoNft",
+        "link": {
+            "label": "NeoNft",
+            "url": "https://neo-nft.vercel.app/"
+        },
+        "description": "NeoNFT is a full-stack NFT platform where users can mint, list, buy, and manage NFTs. It features a custom marketplace built with Solidity smart contracts and a frontend built using Next.js, Tailwind CSS, and RainbowKit for wallet integration. Users can explore NFTs, view their assets, and interact seamlessly with the blockchain.",
+        "languageIcons": [
+            "/nextjs_icon.jpeg",
+            "/sol_icon.png"
+        ]
+    },
+    {
+        "thumbnail": "/lootbox_logo.webp",
+        "title": "LootBox",
+        "link": {
+            "label": "LootBox",
+            "url": "https://neo-nft.vercel.app/"
+        },
+        "description": "LootBox is a Web3 application that lets users create, open, and claim rewards from loot boxes. It features two smart contracts: one for mintable reward tokens and another for managing loot box logic. The frontend, built with Next.js and Tailwind CSS, includes pages to view available loot boxes, claim rewards, and create new boxes with custom token inputs. Wallet integration via RainbowKit and WAGMI allows seamless blockchain interaction, with smooth UI animations powered by Framer Motion",
+        "languageIcons": [
+            "/nextjs_icon.jpeg",
+            "/sol_icon.png"
+        ]
+    }
+]
