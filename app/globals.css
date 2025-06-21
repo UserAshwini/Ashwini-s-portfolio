@@ -65,4 +65,7 @@ a {
   .card{
     @apply bg-card rounded-lg card-shadow
   }
+  .contact-button{
+    @apply p-1.5 rounded-md card-shadow flex items-center justify-center w-8 h-8 
+  }
 }

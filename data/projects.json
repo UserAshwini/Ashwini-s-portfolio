@@ -1,6 +1,10 @@
 [
     {
         "thumbnail": "/driveX_logo.webp",
+        "thumbnail": {
+            "light": "/driveX_logo.webp",
+            "dark": "/driveX_logo.webp"
+        },
         "title": "DriveX",
         "link": {
             "label": "DriveX",
@@ -13,7 +17,10 @@
         ]
     },
     {
-        "thumbnail": "/neoNft_logo.png",
+        "thumbnail": {
+            "light": "/neoNft_logo_light.png",
+            "dark": "/neoNft_logo.png"
+        },
         "title": "NeoNft",
         "link": {
             "label": "NeoNft",
@@ -26,11 +33,14 @@
         ]
     },
     {
-        "thumbnail": "/lootbox_logo.webp",
+        "thumbnail": {
+            "light": "/lootbox_logo.png",
+            "dark": "/lootbox_logo.png"
+        },
         "title": "LootBox",
         "link": {
             "label": "LootBox",
-            "url": "https://neo-nft.vercel.app/"
+            "url": "https://lootbox-virid.vercel.app/"
         },
         "description": "LootBox is a Web3 application that lets users create, open, and claim rewards from loot boxes. It features two smart contracts: one for mintable reward tokens and another for managing loot box logic. The frontend, built with Next.js and Tailwind CSS, includes pages to view available loot boxes, claim rewards, and create new boxes with custom token inputs. Wallet integration via RainbowKit and WAGMI allows seamless blockchain interaction, with smooth UI animations powered by Framer Motion",
         "languageIcons": [
