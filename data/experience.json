@@ -1,27 +1,27 @@
 [
     {
-        "image": "/company_1.png",
+        "image": "/sinqlarity_logo.jpeg",
         "company": "SinQlarity",
         "role": "Web3 Full-Stack Developer",
         "description": "Developed and deployed smart contracts and full-stack dApps like NeoNFT, Uniswap Clone, and LootBox using Solidity, Next.js, Wagmi, and Chainlink, with wallet integration, secure authentication, real-time transaction tracking, and optimized smart contract performance.",
         "date": "Jul 2023 - May 2025"
     },
     {
-        "image": "/company_2.png",
+        "image": "/ashwamedha_logo.png",
         "company": "Ashwamedha",
         "role": "Flutter Developer",
         "description": "Developed and maintained EdTech, FoodTech, and Web3 mobile applications using Flutter, implementing state management with GetX, Provider, and BLoC. Built responsive UIs, integrated Firebase for backend services, tested and integrated RESTful APIs, and developed features like an expense tracker with daily reminders and a crypto wallet for managing EVM-based tokens using web3dart.",
         "date": "Jan 2023 - Jun 2023"
     },
     {
-        "image": "/company_3.png",
+        "image": "/gruby_logo.jpeg",
         "company": "Gruby",
         "role": "Flutter Developer",
         "description": "Collaborated with a team to build and maintain mobile apps using Flutter for the frontend and Firebase for backend, ensuring performance and code quality through testing and clear communication.",
-        "date": "Aug 2022 - Dec 2023"
+        "date": "Aug 2022 - Dec 2022"
     },
     {
-        "image": "/company_2.png",
+        "image": "/guni_logo.jpeg",
         "company": "Guni",
         "role": "Software Tester Intern",
         "description": "Performed thorough manual testing across multiple applications, including unit, integration, functional, black-box, system, and regression testing, to ensure software quality, reliability, and a seamless user experience.",

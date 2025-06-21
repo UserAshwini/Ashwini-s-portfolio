@@ -16,15 +16,51 @@
         "icon": "/html_icon.png"
     },
     {
-        "name": "Solidity",
-        "icon": "/sol_icon.png"
+        "name": "Dart",
+        "icon": "/dart_icon.png"
+    },
+    {
+        "name": "Next JS",
+        "icon": "/nextjs_icon.jpeg"
     },
     {
         "name": "React JS",
         "icon": "/react_icon.png"
     },
     {
-        "name": "Next JS",
-        "icon": "/nextjs_icon.jpeg"
+        "name": "Ethers JS",
+        "icon": "/ethersjs_icon.png"
+    },
+    {
+        "name": "Solidity",
+        "icon": "/sol_icon.png"
+    },
+    {
+        "name": "Flutter",
+        "icon": "/flutter_icon.jpg"
+    },
+    {
+        "name": "Firebase",
+        "icon": "/firebase_icon.png"
+    },
+    {
+        "name": "AppWrite",
+        "icon": "/appwrite_icon.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "/postman_icon.png"
+    },
+    {
+        "name": "Shadcn",
+        "icon": "/shadcn_icon.png"
+    },
+    {
+        "name": "RainbowKit",
+        "icon": "/rainbowkit_icon.png"
+    },
+    {
+        "name": "Web3",
+        "icon": "/web3_icon.webp"
     }
 ]
