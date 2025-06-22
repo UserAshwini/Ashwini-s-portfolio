@@ -1,6 +1,5 @@
 [
     {
-        "thumbnail": "/driveX_logo.webp",
         "thumbnail": {
             "light": "/driveX_logo.webp",
             "dark": "/driveX_logo.webp"
