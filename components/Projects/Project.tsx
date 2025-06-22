@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import React, { MouseEventHandler } from "react";
+import React, { MouseEventHandler, useState } from "react";
 import Reveal from "../Reveal";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 
@@ -27,6 +27,8 @@ const Project = ({
   description,
   languageIcons,
 }: Props) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+
   const getThumbnailSrc = () => {
     if (typeof thumbnail === "string") {
       return thumbnail;
@@ -116,7 +118,15 @@ const Project = ({
               />
             </a>
           </div>
-          <p className="line-clamp-2 text-sm md:text-base">{description}</p>
+          <p
+            className={`text-sm md:text-base transition-all duration-100 cursor-pointer ${
+              isExpanded ? "" : "line-clamp-2"
+            }`}
+            onClick={() => setIsExpanded((prev) => !prev)}
+            title="Click to expand"
+          >
+            {description}
+          </p>
           <div className="flex flex-row gap-[11px]">
             {" "}
             {languageIcons.map((icon, iconId) => (

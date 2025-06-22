@@ -18,7 +18,7 @@ const Hero = () => {
           <h1 className=" text-2xl/1 text-center font-semibold block md:text-[40px] md:text-start md:inline">
             <span className="-ml-3">👋🏻 </span> Hello I`m Ashwini Upadhyay, I`m a{" "}
             <span className="block text-[27px] highlight  mt-2 md:text-[45px] md:inline md:mt-0">
-              Software Engineer
+              Blockchain Developer
             </span>
           </h1>
         </Reveal>

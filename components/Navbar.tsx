@@ -46,7 +46,7 @@ const Navbar = () => {
       <Reveal initialY={-20} duration={2}>
         <nav
           className={cn(
-            "bg-background card-shadow p-3 rounded md:block duration-300 ease-in-out",
+            "bg-background card-shadow p-3 rounded md:block duration-300 ease-in-out cursor-pointer",
             {
               "opacity-100": isOpen,
               "opacity-0 md:opacity-100": !isOpen,

@@ -48,19 +48,23 @@
         "icon": "/appwrite_icon.png"
     },
     {
-        "name": "Postman",
-        "icon": "/postman_icon.png"
-    },
-    {
         "name": "Shadcn",
         "icon": "/shadcn_icon.png"
+    },
+    {
+        "name": "Framer Motion",
+        "icon": "/fm_icon.webp"
     },
     {
         "name": "RainbowKit",
         "icon": "/rainbowkit_icon.png"
     },
     {
-        "name": "Web3",
-        "icon": "/web3_icon.webp"
+        "name": "Wagmi",
+        "icon": "/wagmi_icon.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "/postman_icon.png"
     }
 ]

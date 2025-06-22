@@ -10,10 +10,13 @@
             "label": "DriveX",
             "url": "https://drivex-iota.vercel.app/sign-in"
         },
-        "description": "DriveX is a modern cloud storage app where users can upload, preview, download, and share files like images, videos, audio, and PDFs. Inspired by Google Drive, it offers smart file organization, quick search, recent activity tracking, and a smooth, responsive user experience.",
+        "description": "DriveX is a modern cloud storage app inspired by Google Drive, offering user authentication, smart file organization, quick search, recent activity tracking, support for uploading, previewing, downloading, and sharing files (images, videos, audio, PDFs), up to 2GB of secure data storage per user, and a responsive interface with a chart that visualizes remaining storage space.",
         "languageIcons": [
             "/nextjs_icon.jpeg",
-            "/css_icon.png"
+            "/ts_icon.png",
+            "/css_icon.png",
+            "/shadcn_icon.png",
+            "/appwrite_icon.png"
         ]
     },
     {
@@ -29,7 +32,12 @@
         "description": "NeoNFT is a full-stack NFT platform where users can mint, list, buy, and manage NFTs. It features a custom marketplace built with Solidity smart contracts and a frontend built using Next.js, Tailwind CSS, and RainbowKit for wallet integration. Users can explore NFTs, view their assets, and interact seamlessly with the blockchain.",
         "languageIcons": [
             "/nextjs_icon.jpeg",
-            "/sol_icon.png"
+            "/js_icon.png",
+            "/css_icon.png",
+            "/sol_icon.png",
+            "/wagmi_icon.png",
+            "/rainbowkit_icon.png",
+            "/fm_icon.webp"
         ]
     },
     {
@@ -45,7 +53,12 @@
         "description": "LootBox is a Web3 application that lets users create, open, and claim rewards from loot boxes. It features two smart contracts: one for mintable reward tokens and another for managing loot box logic. The frontend, built with Next.js and Tailwind CSS, includes pages to view available loot boxes, claim rewards, and create new boxes with custom token inputs. Wallet integration via RainbowKit and WAGMI allows seamless blockchain interaction, with smooth UI animations powered by Framer Motion",
         "languageIcons": [
             "/nextjs_icon.jpeg",
-            "/sol_icon.png"
+            "/ts_icon.png",
+            "/css_icon.png",
+            "/sol_icon.png",
+            "/wagmi_icon.png",
+            "/rainbowkit_icon.png",
+            "/fm_icon.webp"
         ]
     }
 ]
