@@ -2,7 +2,7 @@
     {
         "image": "/sinqlarity_logo.jpeg",
         "company": "SinQlarity",
-        "role": "Web3 Full-Stack Developer",
+        "role": "Frontend web3 Developer",
         "description": "Developed and deployed smart contracts and full-stack dApps like NeoNFT, Uniswap Clone, and LootBox using Solidity, Next.js, Wagmi, and Chainlink, with wallet integration, secure authentication, real-time transaction tracking, and optimized smart contract performance.",
         "date": "Jul 2023 - May 2025"
     },
